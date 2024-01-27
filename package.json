@@ -1,0 +1,19 @@
+{
+  "name": "motif-fx",
+  "version": "0.0.1",
+  "description": "generate pattern images for visual design",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "canvas",
+    "pattern",
+    "image",
+    "visual",
+    "design",
+    "gfx"
+  ],
+  "author": "dubem-design",
+  "license": "ISC"
+}
